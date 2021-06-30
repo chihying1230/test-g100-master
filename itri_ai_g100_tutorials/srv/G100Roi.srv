@@ -1,0 +1,4 @@
+string input_filename
+int16[] xy 
+---
+string output_filename
